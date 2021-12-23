@@ -1,3 +1,0 @@
-# Bootcamp Banco Inter
-
-- 
