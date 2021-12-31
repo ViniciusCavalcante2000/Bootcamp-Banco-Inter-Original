@@ -1,13 +1,15 @@
 body {
     background-color: #ccc;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 900px;
+    margin: auto;
 }
 
-
-
+}
 .photo {
     border-radius: 50%;
     border: 3px solid #505050;
+    width: 30%;
 }
 
 #title, .subtitle, .post-title {
@@ -29,6 +31,7 @@ a {
     font-size: 16px;
     font-style: italic;
     border: 0;
+    border-width: 700px;
 }
 
 .text {
@@ -42,3 +45,18 @@ a {
     margin: 0px;
     border-radius: 1%;
 }
+
+.post-image {
+    width: auto;
+    padding: auto;
+}
+
+.contact-list {
+    list-style: none;
+    padding-left: 15px;
+}
+
+.contact-list li a {
+    text-decoration-line: none;
+}
+
